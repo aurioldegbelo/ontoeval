@@ -5,6 +5,7 @@ Computational ontologies are key to information retrieval, semantic integration 
 
 
 *Design: support human reasoning*
+---
 
 * Accuracy (correct representation of aspects of the real world)
 
@@ -28,6 +29,7 @@ Computational ontologies are key to information retrieval, semantic integration 
 
 
 *Implementation: support automated reasoning*
+---
 
 * Computational efficiency (ease and speed of processing by reasoners)
 
