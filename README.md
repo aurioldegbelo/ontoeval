@@ -2,7 +2,9 @@
 
 Computational ontologies are key to information retrieval, semantic integration of datasets, and semantic similarity analyses. It's sometimes a challenge to find a self-contained material where you can find "what" to evaluate after you've designed an ontology, and "how" to do it. Here you may find a start. Depending on the use case, and the intended audience, it may be interesting to evaluate design aspects, or implementation aspects, or both. 
 
-Design: support human reasoning
+
+
+*Design: support human reasoning*
 
 * Accuracy (correct representation of aspects of the real world)
 
@@ -23,7 +25,9 @@ Design: support human reasoning
 * Grounding (number of assumptions done by the ontology’s underlying philosophical theory about reality)
 
 
-Implementation: support automated reasoning
+
+
+*Implementation: support automated reasoning*
 
 * Computational efficiency (ease and speed of processing by reasoners)
 
@@ -36,8 +40,8 @@ Implementation: support automated reasoning
 * Recall (fraction of relevant instances that are retrieved by the ontology)
 
 
-The list will be extended with strategies as I become aware of them. 
 
-Supporting reference: Degbelo, A. (2017). A snapshot of ontology evaluation criteria and strategies. In R. Hoestra, C. Faron-Zucker, T. Pellegrini, & V. de Boer (Eds.), Proceedings of the 13th International Conference on Semantic Systems - SEMANTICS 2017 (pp. 1–8). https://doi.org/10.1145/3132218.3132219
+
+The list will be extended with strategies as I become aware of them. Supporting reference: Degbelo, A. (2017). A snapshot of ontology evaluation criteria and strategies. In R. Hoestra, C. Faron-Zucker, T. Pellegrini, & V. de Boer (Eds.), Proceedings of the 13th International Conference on Semantic Systems - SEMANTICS 2017 (pp. 1–8). https://doi.org/10.1145/3132218.3132219
 
 
