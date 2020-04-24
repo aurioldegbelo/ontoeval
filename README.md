@@ -1,15 +1,30 @@
 # Example ontology evaluation criteria and strategies
 
-Computational ontologies are key to information retrieval, semantic integration of datasets, and semantic similarity analyses. It‘s still a challenge to point to a self-contained material where you can find "what" to evaluate after you've designed an ontology, and "how" to do it. Here you may find a start
+Computational ontologies are key to information retrieval, semantic integration of datasets, and semantic similarity analyses. It's sometimes a challenge to find a self-contained material where you can find "what" to evaluate after you've designed an ontology, and "how" to do it. Here you may find a start. Depending on the use case, and the intended audience, it may be interesting to evaluate design aspects, or implementation aspects, or both. 
 
-Design: 
+Design: support human reasoning
 
-Example criteria
+..*Accuracy (correct representation of aspects of the real world)
+
+Adaptability (ease of performing changes) 
+
+Clarity (effective communication of the intended meaning of defined terms)
+
+Cognitive adequacy (match between formal and cognitive semantics)
+
+Completeness (appropriate coverage of the domain of interest)
+
+Conciseness (absence of unnecessary or useless definitions or axioms)
+
+Consistency (incapacity of getting contradictory conclusions from valid input data)
+
+Expressiveness (number of competency questions that the ontology can answer)
+
+Grounding (number of assumptions done by the ontology’s underlying philosophical theory about reality)
 
 
 
-
-Implementation: 
+Implementation: support automated reasoning
 
 
 Example criteria
