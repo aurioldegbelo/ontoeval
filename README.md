@@ -39,12 +39,8 @@ Computational ontologies are key to information retrieval, semantic integration 
 
 * Precision (fraction of retrieved instances by the ontology that are relevant)
 
-* Recall (fraction of relevant instances that are retrieved by the ontology)
-
-
-
-
-
+* Recall (fraction of relevant instances that are retrieved by the ontology) 
+<br>
 
 The list will be extended with strategies as I become aware of them. Reference: Degbelo, A. (2017). A snapshot of ontology evaluation criteria and strategies. In R. Hoestra, C. Faron-Zucker, T. Pellegrini, & V. de Boer (Eds.), Proceedings of the 13th International Conference on Semantic Systems - SEMANTICS 2017 (pp. 1–8). https://doi.org/10.1145/3132218.3132219
 
