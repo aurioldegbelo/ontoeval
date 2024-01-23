@@ -7,23 +7,23 @@ Computational ontologies are key to information retrieval, semantic integration 
 ### *Design: support human reasoning*
 ---
 
-* Accuracy (correct representation of aspects of the real world)
+- [ ] Accuracy (correct representation of aspects of the real world)
 
-* Adaptability (ease of performing changes) 
+- [ ] Adaptability (ease of performing changes) 
 
-* Clarity (effective communication of the intended meaning of defined terms)
+- [ ] Clarity (effective communication of the intended meaning of defined terms)
 
-* Cognitive adequacy (match between formal and cognitive semantics)
+- [ ] Cognitive adequacy (match between formal and cognitive semantics)
 
-* Completeness (appropriate coverage of the domain of interest)
+- [ ] Completeness (appropriate coverage of the domain of interest)
 
-* Conciseness (absence of unnecessary or useless definitions or axioms)
+- [ ] Conciseness (absence of unnecessary or useless definitions or axioms)
 
-* Consistency (incapacity of getting contradictory conclusions from valid input data)
+- [ ] Consistency (incapacity of getting contradictory conclusions from valid input data)
 
-* Expressiveness (number of competency questions that the ontology can answer)
+- [ ] Expressiveness (number of competency questions that the ontology can answer)
 
-* Grounding (number of assumptions done by the ontology’s underlying philosophical theory about reality)
+- [ ] Grounding (number of assumptions done by the ontology’s underlying philosophical theory about reality)
 
 
 
@@ -31,15 +31,15 @@ Computational ontologies are key to information retrieval, semantic integration 
 ### *Implementation: support automated reasoning*
 ---
 
-* Computational efficiency (ease and speed of processing by reasoners)
+- [ ] Computational efficiency (ease and speed of processing by reasoners)
 
-* Congruency (fitness between ontology and corpus terms)
+- [ ] Congruency (fitness between ontology and corpus terms)
 
-* Practical usefulness (number of practical problems to which the ontology can be applied)
+- [ ] Practical usefulness (number of practical problems to which the ontology can be applied)
 
-* Precision (fraction of retrieved instances by the ontology that are relevant)
+- [ ] Precision (fraction of retrieved instances by the ontology that are relevant)
 
-* Recall (fraction of relevant instances that are retrieved by the ontology) 
+- [ ] Recall (fraction of relevant instances that are retrieved by the ontology) 
 <br>
 
 The list will be extended with strategies as I become aware of them. Reference: Degbelo, A. (2017). A snapshot of ontology evaluation criteria and strategies. In R. Hoestra, C. Faron-Zucker, T. Pellegrini, & V. de Boer (Eds.), Proceedings of the 13th International Conference on Semantic Systems - SEMANTICS 2017 (pp. 1–8). https://doi.org/10.1145/3132218.3132219
